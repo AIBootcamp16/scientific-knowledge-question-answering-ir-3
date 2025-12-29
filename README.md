@@ -37,7 +37,7 @@
 
 최종 파이프라인(**v9_sota 기반**)은 다음과 같은 4단계 프로세스로 구성됩니다.
 
-```mermaid
+```
 graph TD
     User[User Query] --> Gating[🕵️ Solar Pro 2 Gating]
 
