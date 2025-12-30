@@ -181,6 +181,10 @@ python main.py --config config/prod_sota_v9.yaml
 특히, 이미 높은 성능(**0.94**) 구간에서 추가 상승을 위해 LLM을 심판(Judge)으로 활용한 전략은 실무적인 RAG 시스템 고도화에도 유효한 접근법이 될 것입니다.
 
 ---
+## 📝 발표자료
+
+[IR3_Trinity_Team_Presentation_final.pdf](https://github.com/user-attachments/files/24376598/IR3_Trinity_Team_Presentation_final.pdf)
+
 
 ## 👥 Authors / Date
 
