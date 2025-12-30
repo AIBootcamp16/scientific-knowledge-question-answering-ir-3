@@ -184,5 +184,5 @@ python main.py --config config/prod_sota_v9.yaml
 
 ## 👥 Authors / Date
 
-- **Authors**: IR 3조 Trinity Team(문서연, 박준영, 김재록, 이재윤, 임환석)
+- **Authors**: IR 3조 Trinity Team(팀장 문서연, 팀원 박준영, 팀원 김재록, 팀원 이재윤,팀원 임환석)
 - **Date**: 2025.12.29
