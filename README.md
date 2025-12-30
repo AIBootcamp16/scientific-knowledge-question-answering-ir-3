@@ -2,14 +2,14 @@
 ## 한국어 과학 상식 질의응답 시스템 (RAG Optimization)
 
 본 프로젝트는 **"과학 지식 질의 응답 시스템 구축" 대회**를 위해 개발된 **고성능 RAG(Retrieval-Augmented Generation) 파이프라인**입니다.  
-초기 베이스라인(**MAP 0.66**)에서 시작하여, **다단계 검색 전략**, **지능형 게이팅**, **합성 데이터 파인튜닝**, 그리고 **정밀한 LLM Judge 전략**을 통해 최종 **MAP 0.9470**을 달성했습니다.
+초기 베이스라인(**MAP 0.66**)에서 시작하여, **다단계 검색 전략**, **지능형 게이팅**, **합성 데이터 파인튜닝**, 그리고 **정밀한 LLM Judge 전략**을 통해 최종 Private Board 기준 **MAP 0.9136**을 달성했습니다.
 
 ---
 
 ## 📋 Executive Summary
 
 - **목표**: 한국어 과학 상식 문서(약 **4,200개**) 기반의 정확한 정보 검색 및 답변 생성  
-- **최종 성과**: **MAP 0.9470 / MRR 0.9470 (리더보드 1위 달성)**  
+- **최종 성과**: **MAP 0.9136	 / MRR 0.9197	 (최종 Private Board 1위 달성)**  
 - **핵심 기술**
   - **Retrieval**: BGE-M3 (Dense + Sparse) Hybrid Search + RRF Fusion
   - **Optimization**: Solar Pro 2 기반 지능형 게이팅 & Query Expansion
@@ -171,6 +171,9 @@ python main.py --config config/prod_sota_v9.yaml
 ```
 
 ---
+## 📝 최종 리더보드
+
+<img width="983" height="564" alt="image" src="https://github.com/user-attachments/assets/6fb5c38f-1fea-4648-b6fa-b375761846c2" />
 
 ## 📝 Retrospective
 
@@ -181,5 +184,5 @@ python main.py --config config/prod_sota_v9.yaml
 
 ## 👥 Authors / Date
 
-- **Authors**: IR System Optimization Team  
+- **Authors**: IR 3조 Trinity Team(문서연, 박준영, 김재록, 이재윤, 임환석)
 - **Date**: 2025.12.29
