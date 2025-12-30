@@ -185,6 +185,9 @@ python main.py --config config/prod_sota_v9.yaml
 
 [IR3_Trinity_Team_Presentation_final.pdf](https://github.com/user-attachments/files/24376598/IR3_Trinity_Team_Presentation_final.pdf)
 
+## 📝 노션페이지
+
+https://www.notion.so/RAG-Trinity-3-41f19c76835c4a878399700e4633bbb7?source=copy_link
 
 ## 👥 Authors / Date
 
