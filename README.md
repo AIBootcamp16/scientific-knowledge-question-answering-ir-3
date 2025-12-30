@@ -171,7 +171,7 @@ python main.py --config config/prod_sota_v9.yaml
 ```
 
 ---
-## 📝 최종 리더보드
+## 📝 최종 리더보드(IR 3조 1위)
 
 <img width="983" height="564" alt="image" src="https://github.com/user-attachments/assets/6fb5c38f-1fea-4648-b6fa-b375761846c2" />
 
